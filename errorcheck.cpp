@@ -2,7 +2,7 @@
 using namespace std;
 float a;
 bool ex;
-//функция ввода переменной с проверкой
+//функция ввода переменной с проверкой, работает только на тип float, double и еще какой то там третий
 float enter(float x){
 	ex=true;
 	while(ex){
